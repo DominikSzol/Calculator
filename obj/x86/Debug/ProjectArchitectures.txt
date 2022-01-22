@@ -1,0 +1,1 @@
+C:\Users\pc\Desktop\DCW7TD\Calculator\Calculator.csproj;x86
